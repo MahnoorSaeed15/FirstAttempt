@@ -2,3 +2,4 @@ Name: Mahnoor Saeed
 Roll no : SUM24-0071
 Course: ITM by Systems Limited
 Course Duration: 6 months
+Instructor Name: Muhammad Ahsan Javed
